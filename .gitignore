@@ -4,3 +4,9 @@
 
 # LangGraph
 .langgraph_api/
+
+# Instructor notes
+notes-for-instructor.md
+
+# environment
+.env
